@@ -1,6 +1,5 @@
 ### Hola a todos 🌝
-
-![a057ff25093a522e4f4c5e09728e5c56](https://user-images.githubusercontent.com/84849768/138152157-5da811c0-d174-4a2d-99a7-2d81dc69fbc2.jpg)
+![Rachel Morris jpg](https://user-images.githubusercontent.com/84849768/138152776-effbe98f-f253-4257-bbb7-f510544b6c2e.png)
 
 Me llamo Yurany pero puedes decirme Yury. Soy desarrolladora web Front End y mi enfoque principal es crear aplicaciones que sean realmente útiles y accesibles para los usuarios. Me gustan los deportes al aire libre 🍃
 
