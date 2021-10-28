@@ -7,4 +7,4 @@ Me llamo Yurany pero puedes decirme Yury. Me gustan los deportes al aire libre, 
 - 🌮 Estoy trabajando en el desarrollo de una aplicación para un restaurante usando React.
 - 👾 Estoy aprendiendo a utilizar React para desarrollar mis proyectos.
 - 🎮 Nickname: layuya 
-- ⚡ Fun fact: Soy fan de la serie 'The Big Bang Theory ⚛' 
+- ⚡ Fun fact: Soy fan de la serie 'The Big Bang Theory🪐' 
