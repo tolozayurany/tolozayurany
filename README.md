@@ -1,6 +1,6 @@
 ### Hola a todos 🌝
 
-Me llamo Yurany pero puedes decirme Yury. Me gustan los deportes al aire libre, soy desarrolladora web Front End y mi enfoque principal es crear aplicaciones que sean realmente útiles y accesibles para los usuarios. 
+Me llamo Yurany pero puedes decirme Yury. Me gustan los deportes al aire libre, soy desarrolladora web Front End y mi enfoque principal es crear soluciones tecnológicas que sean realmente útiles y accesibles para los usuarios. 
 
 <img src="https://user-images.githubusercontent.com/84849768/138273161-ae42929e-985f-4882-b077-5d225f94edaa.png" align="right"></img>
 
