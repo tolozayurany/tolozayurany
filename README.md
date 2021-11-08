@@ -9,4 +9,4 @@ Me llamo Yurany pero puedes decirme Yury. Me gustan los deportes al aire libre, 
 - 🎮 Nickname: layuya 
 - ⚡ Fun fact: Soy fan de la serie 'The Big Bang Theory🪐' 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolozayurany)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolozayurany&hide=stars&show_icons=true&theme=tokyonight&border_radius=10px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
