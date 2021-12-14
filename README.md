@@ -4,7 +4,6 @@ Me llamo Yurany pero puedes decirme Yury. Me gustan los deportes al aire libre, 
 
 <img src="https://user-images.githubusercontent.com/84849768/138273161-ae42929e-985f-4882-b077-5d225f94edaa.png" align="right"></img>
 
-- 👩‍🔧 Realizo aplicaciones web por medio de JavaScript, HTML, CSS y React. Me gusta adaptarme a los cambios por lo que estoy aprendiendo constantemente. 
 - 💻 Manejo tecnologías como: JavaScript, HTML, CSS, React, JSX, NodeJs, Firebase, Firestore, Power BI, Figma y Adobe XD.
 - 🌯 Estoy trabajando en el desarrollo de una aplicación web para un restaurante por medio de React.
 - 🪀 Estoy aprendiendo React para desarrollar mis proyectos.
